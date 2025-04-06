@@ -3,6 +3,16 @@
 An intelligent end-to-end recruitment assistant that leverages NLP and AI to streamline candidate selection, shortlisting, and interview scheduling.
 
 ---
+## 🧑‍💼 Team & Credits
+
+Developed for **Accenture's Hack the Future** hackathon  
+👥 **Team Name**: *Algorizzlers*
+
+### 👨‍💻 Team Members
+- Gaurang Mundhra  
+- Om Dhanawat
+
+---
 
 ## 🚀 Features
 
@@ -73,13 +83,6 @@ git clone https://github.com/yourusername/recruitment_ai.git
 cd recruitment_ai
 pip install -r requirements.txt
 
----
-## 🧑‍💼 Team & Credits
 
-Developed for **Accenture's Hack the Future** hackathon  
-👥 **Team Name**: *Algorizzlers*
 
-### 👨‍💻 Team Members
-- Gaurang Mundhra  
-- Om Dhanawat
 
