@@ -73,11 +73,13 @@ git clone https://github.com/yourusername/recruitment_ai.git
 cd recruitment_ai
 pip install -r requirements.txt
 
+---
 ## 🧑‍💼 Team & Credits
-Developed for Accenture's Hack the Future hackathon
-👥 Team Name: Algorizzlers
 
-👨‍💻 Team Members
-Gaurang Mundhra
+Developed for **Accenture's Hack the Future** hackathon  
+👥 **Team Name**: *Algorizzlers*
 
-Om Dhanawat
+### 👨‍💻 Team Members
+- Gaurang Mundhra  
+- Om Dhanawat
+
